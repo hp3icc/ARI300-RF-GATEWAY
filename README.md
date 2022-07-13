@@ -6,7 +6,7 @@
 
 # Descripcion:
 
-ARI300 , es un cliente USRP PC RF Gateway, de desarrollo 100% del colega LU4AEY Claudio Zanella, permite utilizar un radio Analogico como nodo conectado a una red Digital, permitiendo a las estaciones que no cuentan con radios digitales , tener comunicacion con redes digitales de radio , desde un sencillo radio analogico.
+ARI300 , es un cliente USRP PC RF Gateway, con tx ptt y rx serial com control, de desarrollo 100% del colega LU4AEY Claudio Zanella, permite utilizar un radio Analogico como nodo conectado a una red Digital, permitiendo a las estaciones que no cuentan con radios digitales , tener comunicacion con redes digitales de radio , desde un sencillo radio analogico.
 
 #
 
