@@ -20,18 +20,6 @@ descomprima el archivo descargado y edite los archivos de configuracion remplaza
 
 #
 
-# Interface
-
-ARI300, es compatible con cualquier cable o interface conocido utilizado para aplicaciones como Echolink, Zello PC Gateway u otros.
-
-Cada usuario podra editar los pines de comunicacion que utiliza su cable DB9 para TX (PTT) o RX (COS - COR) desde el archivo de configuracion.
-
-Si no cuenta con con un interface o cable , el colega LU4AEY nos comparte un circuito basico y economico , que puede ensamblar por menos de 5 dolares: 
-
-![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/Interface-ARI300--Circuito-Electrico-.jpg)
-
-#
-
 # Configuracion 
 
 Edite los archivos ARI300.ini y DMR_TalkGroups.def , con sus datos, los datos de su server USRP y tg a utilizar:
@@ -45,6 +33,18 @@ Edite los archivos ARI300.ini y DMR_TalkGroups.def , con sus datos, los datos de
 * DMR_TalkGroups.def
 
 ![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/DMR_TalkGroups.jpg)
+
+#
+
+# Interface
+
+ARI300, es compatible con cualquier cable o interface conocido utilizado para aplicaciones como Echolink, Zello PC Gateway u otros.
+
+Cada usuario podra editar los pines de comunicacion que utiliza su cable DB9 para TX (PTT) o RX (COS - COR) desde el archivo de configuracion.
+
+Si no cuenta con con un interface o cable , el colega LU4AEY nos comparte un circuito basico y economico , que puede ensamblar por menos de 5 dolares: 
+
+![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/Interface-ARI300--Circuito-Electrico-.jpg)
 
 #
 
