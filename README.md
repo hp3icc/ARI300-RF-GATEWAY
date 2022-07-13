@@ -32,6 +32,4 @@ si no cuenta con con un interface o cable , el colega LU4AEY nos comparte un cie
 
 #
 
-mas informacion en el siguiente link :
-
-      https://www.argentina-room.dns-cloud.net/novedades-actualizaciones---ari-300.html 
+Mas informacion en el siguiente link : <p><a href="  https://www.argentina-room.dns-cloud.net/novedades-actualizaciones---ari-300.html " target="_blank">Argentina Room</a></p>
