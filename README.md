@@ -50,7 +50,7 @@ Si no cuenta con con un interface o cable , el colega LU4AEY nos comparte un cir
 
 # Nota:
 
-Importante, para que el software identifique la actividad de señal analoga, el radio que utilice como nodo , debe tener pin de cor/cos , y el cable o interface a utilizar debe tener este pin del radio, conectado al db9 al pin DCD o al que a configuado en la linea de cosSignal en el archivo de configuracion.
+Importante, para que el software identifique la actividad de señal analoga, el radio que utilice como nodo , debe tener pin de cor/cos , y el cable o interface a utilizar debe tener este pin del radio, conectado al Db9 puerto com, pin DCD, o al que a configuado en la linea de cosSignal en el archivo de configuracion.
 
 #
 
