@@ -38,64 +38,12 @@ Edite los archivos ARI300.ini y DMR_TalkGroups.def , con sus datos, los datos de
 
 * ARI300.ini
 
-[General]
-
-Callsign=HP3ICC               : Callsign
-
-subscriberID=1234567          : DMRiD
-
-repeaterID=123456789          : DMRid + 2 digitos del 01-99
-
-pttInterface=com1             : Db9 Puerto serial Com
-
-pttSignal=dsr                 : pin db9 activa circuito ptt
-
-cosSignal=dcd                 : pin db9 activa rx (cos/cor)
-
-usrpAddress=192.168.100.10    : ip o url de servidor Usrp
-
-usrpTxPort=50001              : Puerto Usrp TX
-
-usrpRxPort=50001              : Puerto Usrp RX
-
-defaultMode=DMR               
-
-defaultTG=99999               : TG predeterminado de Transmision
-
-userMode=0                    : 0 = Modo bridge radio Gateway, 1 = Modo Direct PC
-
-useFilter=1                   
-
-tot=5                         : Time off Tx radio
-
-slot=2                        
-
-quindar_tones=1               : Tono de cortesia analogo
-
-Jitter=300                    
-
-inp_index=0
-
-out_index=0
-
-rx_level=1
-
-tx_level=1
-
+![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/ARI300INI.jpg)
 
 
 * DMR_TalkGroups.def
 
-##############################################
-#Lista de tg que se muestran en la aplicacion#
-##############################################
-
-722;Argentina
-
-7221;Arg AMBA
-
-7229;Arg Room
-
+![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/DMR_TalkGroups.jpg)
 
 #
 
