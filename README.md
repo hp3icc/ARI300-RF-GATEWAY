@@ -40,6 +40,7 @@ Edite los archivos ARI300.ini y DMR_TalkGroups.def , con sus datos, los datos de
 
 ![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/ARI300INI.jpg)
 
+#
 
 * DMR_TalkGroups.def
 
