@@ -1,4 +1,4 @@
-# ARI300-RF-GATEWAY
+# ARI300-RF-GATEWAY by LU4AEY
 
 ![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/ari300rf-gateway.jpg)
 
