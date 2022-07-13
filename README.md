@@ -14,9 +14,7 @@ ARI300 , es un cliente USRP PC RF Gateway, de desarrollo 100% del colega LU4AEY 
 
 descargue el archivo comprimido desde el siguiente link:
 
-
-<a href="https://github.com/hp3icc/ARI300-RF-GATEWAY/blob/main/ARI300_RF_Gateway.zip?raw=true"></a> 
-*// Creates a hyperlink. Note 'href'. This is called an attribute.
+<p><a href="https://github.com/hp3icc/ARI300-RF-GATEWAY/blob/main/ARI300_RF_Gateway.zip?raw=true" target="_blank">ARI300-RF-GATEWAY</a></p>
 
 descomprima el archivo descargado y edite los archivos de configuracion remplazando los datos por los suyos 
 
